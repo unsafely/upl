@@ -1,0 +1,5 @@
+Copyright (C) <YEAR> <COPYRIGHT HOLDER>
+======
+
+** WARNING **
+THIS IS UNSAFE!!!
