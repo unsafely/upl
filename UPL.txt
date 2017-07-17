@@ -1,5 +1,9 @@
 Copyright (C) <YEAR> <COPYRIGHT HOLDER>
+<年份> <版权所有者> (C) 版权所有
 ======
 
-** WARNING **
-THIS IS UNSAFE!!!
+** WARNING ** 
+** 警告 **
+
+THIS IS UNSAFE!!!  
+这不安全！！！
